@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@mipmap/hong1"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/hong2"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/hong3"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/hong4"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/hong5"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/hong6"
+        android:duration="200" />
+
+</animation-list>
